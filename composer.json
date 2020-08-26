@@ -1,0 +1,15 @@
+{
+    "name": "Mass Assign Apps",
+    "description": "Add tags to multiple files at once.",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Björn Tantau"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
